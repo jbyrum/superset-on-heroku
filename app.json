@@ -11,5 +11,6 @@
     {
       "url": "heroku/python"
     }
-  ]
+  ],
+  "stacks": "heroku-16"
 }
